@@ -2,8 +2,8 @@
   "name": "Colorful Dots Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#263238",
-    "editor.foreground": "#eeffff",
+    "editor.background": "#262626",
+    "editor.foreground": "#ffecdb",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
   },
@@ -41,7 +41,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#9292ea"
       }
     },
     {
@@ -49,6 +49,16 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
+        "keyword.other.template",
+        "keyword.other.substitution"
+      ],
+      "settings": {
+        "foreground": "#ff89fb"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
         "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
@@ -56,12 +66,10 @@
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
-        "keyword.other.template",
-        "keyword.other.substitution"
+        "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#ffe789"
       }
     },
     {
@@ -85,7 +93,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ffe682"
       }
     },
     {
@@ -130,7 +138,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#ecf5b1"
       }
     },
     {

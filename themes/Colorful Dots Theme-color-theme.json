@@ -20,7 +20,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#9ef9f0"
       }
     },
     {
@@ -93,7 +93,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#ffe682"
+        "foreground": "#d27ff5"
       }
     },
     {
@@ -138,7 +138,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#ecf5b1"
+        "foreground": "#d4e17f"
       }
     },
     {
